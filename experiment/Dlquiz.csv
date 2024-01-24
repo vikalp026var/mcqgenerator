@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What is deep learning?,a: A subset of machine learning methods based on artificial neural networks | b: A type of unsupervised learning algorithm | c: A technique used in natural language processing | d: A method for drug design,a
+Which of the following deep learning architectures is used in computer vision?,a: Deep belief networks | b: Recurrent neural networks | c: Convolutional neural networks | d: Transformers,c
+How do artificial neural networks differ from biological brains?,a: ANNs are dynamic and analog | b: ANNs are static and symbolic | c: ANNs have distributed communication nodes | d: ANNs are inspired by information processing,b
+What do higher layers in deep learning networks identify in image processing?,a: Edges | b: Concepts relevant to humans | c: Raw input | d: Lower layers,b
+What does the term 'deepest learning' refer to?,a: Fully automatic learning from a source to a final learned object | b: A mixed learning process involving humans and computers | c: Learning from a source to a learned semi-object | d: Learning from a human learned semi-object to a final learned object,a
