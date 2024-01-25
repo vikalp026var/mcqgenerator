@@ -1,0 +1,5 @@
+[2024-01-25 19:10:10,494] 11 root-INFO -Enter into the Streamlit.py
+[2024-01-25 19:10:10,495] 11 root-INFO -Enter into the Streamlit.py
+[2024-01-25 19:11:25,381] 11 root-INFO -Enter into the Streamlit.py
+[2024-01-25 19:11:53,993] 1027 httpx-INFO -HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2024-01-25 19:12:18,511] 1027 httpx-INFO -HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
